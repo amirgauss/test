@@ -2,3 +2,5 @@ test1
 test2
 testdemo3
 diff HEAD
+local change
+
